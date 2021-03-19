@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt --hostname 118.27.39.173 --port 1111",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.3"
+  }
+}
