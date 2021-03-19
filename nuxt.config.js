@@ -52,7 +52,7 @@ export default {
       routes.push({
         name: '404error',
         path: '*',
-        component: resolve('~/pages/notfound.vue')
+        component: resolve('~/pages/index.vue')
       })
     }
  },
