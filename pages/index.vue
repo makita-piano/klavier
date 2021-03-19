@@ -5,13 +5,13 @@
         <h1 id="title">Klavier Page</h1>
         <div id="social">
           <a href="https://twitter.com/miraxial" target="_blank" rel="noopener me" title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" id="twitter" style="margin-bottom: .5rem;" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></a>
-          <a href="https://atcoder.jp/users/miraxial" target="_blank" rel="noopener me"><img src="/atcoder.svg" id="atcoder" title="atcoder"></a>
+          <a href="https://atcoder.jp/users/miraxial" target="_blank" rel="noopener me"><img src="/atcoder.svg" width="auto" height="56px" title="atcoder" alt="atcoder"></a>
         </div>
       </div>
       <div id="wrapper">
         <div id="namecard">
           <div id="namecard-img">
-            <img src="/me.jpg" id="me-img" />
+            <img src="/me.jpg" id="me-img" alt="me" width="30%" height="auto" />
           </div>
           <div>
             <p id="namecard-txt">webページなどの個人製作を行っています。<br>詳しい<a href="#">ポートフォリオ</a>・ご依頼はDMまで。</p>
@@ -83,10 +83,6 @@ a {
   width: 1em;
 }
 
-#atcoder {
-  width: 4rem;
-}
-
 #wrapper {
   position: relative;
   width: 100%;
@@ -115,17 +111,18 @@ a {
 }
 
 #me-img {
-  width: 30%;border-radius: 3rem;margin-top: .5rem;
+  border-radius: 3rem;
+  margin-top: .5rem;
 }
 
 #namecard-txt {
-margin: .5rem
+  margin: .5rem;
 }
 
 footer {
   font-size: .6em;
   line-height: normal;
-  opacity: .6;
   text-align: center;
 }
+
 </style>
