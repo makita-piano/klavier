@@ -15,7 +15,7 @@ export default {
       { hid: 'og:title', property: 'og:title', content: 'Klavier Page' },
       { hid: 'og:description', property: 'og:description', content: 'webページなどの個人製作を行っています。詳しいポートフォリオ・ご依頼はDMまで。' },
       { hid: 'og:image', property: 'og:image', content: '/klavier.png' },
-      { hid: 'twitter:card', property: 'twitter:card', content: 'summary_large_image' },
+      { hid: 'twitter:card', property: 'twitter:card', content: 'summary' },
       { hid: 'twitter:image', property: 'twitter:image', content: '/klavier.png' },
     ],
     link: [
