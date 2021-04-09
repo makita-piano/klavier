@@ -19,14 +19,14 @@
             <img src="/me.jpg" id="me-img" alt="me" width="30%" height="auto" />
           </div>
           <div>
-            <p id="namecard-txt">webページなどの個人製作を行っています。<br>詳しいポートフォリオ・ご依頼はDMまで。</p>
+            <p id="namecard-txt">webページなどの個人製作を行っています。<br>詳しい<a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで。</p>
           </div>
         </div>
       </div>
 		</div>
-  	<footer>
-  		<p>© 2020 Klavier Page</p>
-  	</footer>
+    <footer>
+      <p>© 2020 Klavier Page</p>
+    </footer>
 	</div>
 </template>
 
