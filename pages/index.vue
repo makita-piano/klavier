@@ -16,7 +16,7 @@
       <div id="wrapper">
         <div id="namecard">
           <div id="namecard-img">
-            <nuxt-img src="/me.jpg" id="me-img" alt="me" sizes="sm:88 md:89 lg:90" height="auto" />
+            <nuxt-img src="/me.jpg" id="me-img" alt="me" width="89" height="auto" />
           </div>
           <div>
             <p id="namecard-txt">webページなどの個人製作を行っています。<br>詳しい<a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで。</p>
