@@ -33,7 +33,10 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
-  buildModules: ['@nuxt/image'],
+  buildModules: [
+    '@nuxt/image',
+    '@nuxtjs/sitemap'
+  ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
