@@ -1,6 +1,6 @@
 <template>
-	<div id="spotlight">
-		<div id="center">
+  <div id="spotlight">
+    <div id="center">
       <div id="logo">
         <h1 id="title">Klavier Page</h1>
         <div id="social">
@@ -19,15 +19,15 @@
             <nuxt-img src="/me.jpg" id="me-img" alt="me" width="89" height="89" />
           </div>
           <div>
-            <p id="namecard-txt">webページなどの個人製作を行っています。<br>詳しい<a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで。</p>
+            <p id="namecard-txt"><a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで。</p>
           </div>
         </div>
       </div>
-		</div>
+    </div>
     <footer>
       <p>© 2020 Klavier Page</p>
     </footer>
-	</div>
+  </div>
 </template>
 
 <style>
