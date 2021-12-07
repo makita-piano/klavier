@@ -19,7 +19,7 @@
             <nuxt-img src="/me.jpg" id="me-img" alt="me" width="89" height="89" />
           </div>
           <div>
-            <p id="namecard-txt">WordPressできません<br><a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで</p>
+            <p id="namecard-txt">システム管理ほか何でもどうぞ<br><a href="https://portfolio.klavier.page/">ポートフォリオ</a>・ご依頼はDMまで</p>
           </div>
         </div>
       </div>
