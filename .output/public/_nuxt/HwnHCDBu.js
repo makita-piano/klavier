@@ -1,0 +1,1 @@
+import{_ as o,y as i,A as e,B as r,z as a}from"./BeHT4tFp.js";const n={},l={id:"spotlight"};function s(d,t){return a(),i("div",l,[t[0]||(t[0]=e("div",{id:"center"},[e("div",{id:"logo"},[e("h1",{id:"title"},"Klavier Page")])],-1)),e("footer",null,[e("p",null,"© "+r(new Date().getFullYear())+" Klavier Page",1)])])}const _=o(n,[["render",s]]);export{_ as default};
